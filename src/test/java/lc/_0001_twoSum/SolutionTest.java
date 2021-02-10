@@ -1,11 +1,11 @@
-package lc._0002_twoSum;
+package lc._0001_twoSum;
 
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
 public class SolutionTest {
-    lc._0002_twoSum.Solution solution = new Solution();
+    lc._0001_twoSum.Solution solution = new Solution();
 
     @Test
     public void testTwoSum1(){
