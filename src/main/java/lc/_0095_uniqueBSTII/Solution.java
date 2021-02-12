@@ -1,6 +1,6 @@
 package lc._0095_uniqueBSTII;
 
-import lp.practice.lc.TreeNode;
+import lc.TreeNode;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,4 +1,4 @@
-package lp.practice.lc;
+package lc;
 
 public class TreeNode {
     public int val;
